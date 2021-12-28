@@ -25,5 +25,5 @@ profile_line_by_line:
 profile_memory:
 	# poetry run ipython
 	# %load_ext memory_profiler
-	# from main_benchmark import benchmark, ParticleSimulator
+	# from benchmark_memory import benchmark_memory, ParticleSimulator
 	# %lprun -f ParticleSimulator.evolve benchmark()
